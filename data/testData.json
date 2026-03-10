@@ -1,0 +1,23 @@
+{
+  "credentials": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "jobCategory": {
+    "name": "Test Engineer"
+  },
+  "location": {
+    "name": "Test Location",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "zip": "600119",
+    "country": "India",
+    "phone": "",
+    "fax": "0441234567",
+    "address": "Test Address",
+    "notes": "Test Notes"
+  },
+  "skill": {
+    "name": "Testing Demo"
+  }
+}
