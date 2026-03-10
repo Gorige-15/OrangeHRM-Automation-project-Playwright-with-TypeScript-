@@ -20,7 +20,7 @@ export default defineConfig({
     timeout: 5000
   },
   use: {
-    headless: true,
+    headless: false,
 
     trace: 'on-first-retry',
   },
